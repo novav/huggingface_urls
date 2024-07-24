@@ -1,3 +1,10 @@
+直接把huggingface_hub单个库的所有下载链接，打包输出，
+结果如下：
+```json
+[...,
+['https://huggingface.co/RunDiffusion/Juggernaut-XL-v9/resolve/main/vae/diffusion_pytorch_model.fp16.safetensors', ' out=vae/diffusion_pytorch_model.fp16.safetensors']
+]
+```
 
 ## 直接运行源文件
 
